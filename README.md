@@ -18,7 +18,7 @@ If you are running the Pi headless, connect to your Raspberry Pi using ssh.
 
 Install the Waveshare Python module following the instructions on their [Wiki](https://www.waveshare.com/wiki/2.7inch_e-Paper_HAT).
 
-(To install the waveshare_epd python module, you need to run the setup file in their repository)
+(To install the waveshare_epd python module, you need to run the setup file [in their repository](https://github.com/waveshare/e-Paper))
 
 ```
 cd e-Paper/RaspberryPi\&JetsonNano/python
